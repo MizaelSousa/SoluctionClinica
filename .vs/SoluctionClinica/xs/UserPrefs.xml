@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{24153CA3-20BC-456D-BB96-855245196DEC}|">
   <MonoDevelop.Ide.ItemProperties.View PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="View/Pages/EstadoLista.aspx.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="View/Pages/EspecialidadeLista.aspx">
     <Files>
-      <File FileName="View/Pages/EstadoLista.aspx" Line="1" Column="1" />
-      <File FileName="View/Pages/EstadoLista.aspx.cs" Line="1" Column="1" />
+      <File FileName="View/Pages/EspecialidadeLista.aspx" Line="26" Column="61" />
+      <File FileName="View/Pages/EspecialidadeLista.aspx.cs" Line="12" Column="58" />
+      <File FileName="View/Pages/EspecialidadeLista.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="View/Pages/EstadoLista.aspx" Line="22" Column="27" NotebookId="1" />
+      <File FileName="View/Pages/EstadoLista.aspx.cs" Line="17" Column="10" NotebookId="1" />
+      <File FileName="View/Pages/EstadoLista.aspx.designer.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="DAL/Persistence/EspecialidadeDal.cs" Line="55" Column="82" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" Inherits="View.Pages.EstadoLista" %>
+﻿<%@ Page Language="C#" Inherits="View.Pages.EspecialidadeLista" %>
 <!DOCTYPE html>
 <html>
     
@@ -19,14 +19,14 @@
           
             <form id="principal" runat="server" class="form-horizontal">
                 
-               <asp:GridView runat="server" id="gridListaEstado" AutoGenerateColumns="false" CssClass="table table-bordered table-hover" >
+               <asp:GridView runat="server" id="gridListaEspecialidade" AutoGenerateColumns="false" CssClass="table table-bordered table-hover" >
                 
                     <Columns>
                         
-                        <asp:BoundField DataField="nome" HeaderText="ESTADO" />
+                        <asp:BoundField DataField="descricao" HeaderText="ESTADO" />
                         
-                        <asp:BoundField DataField="sigla" HeaderText="SIGLA" >
-                            <ItemStyle width="10%"></ItemStyle>
+                        <asp:BoundField DataField="dtCadastro" HeaderText="DATA DE CADASTRO" >
+                            <ItemStyle width="15%"></ItemStyle>
                         </asp:BoundField>
                         
                     </Columns>

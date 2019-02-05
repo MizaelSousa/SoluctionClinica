@@ -18,6 +18,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Estado <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="http://127.0.0.1:8080/Pages/EstadoCadastro.aspx">Cadastro</a></li>
+                <li><a href="http://127.0.0.1:8080/Pages/EstadoLista.aspx">Lista</a></li>
               </ul>
             </li>
             
@@ -32,6 +33,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Especialidade <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="http://127.0.0.1:8080/Pages/EspecialidadeCadastro.aspx">Cadastro</a></li>
+                <li><a href="http://127.0.0.1:8080/Pages/EspecialidadeLista.aspx">Lista</a></li>
               </ul>
             </li>
             

@@ -9,12 +9,12 @@
 //------------------------------------------------------------------------------
 
 namespace View.Pages {
-	
-	
-	public partial class EstadoLista {
-		
-		protected System.Web.UI.HtmlControls.HtmlForm principal;
-		
-		protected System.Web.UI.WebControls.GridView gridListaEstado;
-	}
+    
+    
+    public partial class EspecialidadeLista {
+        
+        protected System.Web.UI.HtmlControls.HtmlForm principal;
+        
+        protected System.Web.UI.WebControls.GridView gridListaEspecialidade;
+    }
 }
